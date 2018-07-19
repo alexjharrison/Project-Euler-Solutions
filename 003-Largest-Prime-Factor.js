@@ -1,3 +1,5 @@
+//done (not fully functional for all use cases though)
+
 var input = 600851475143;
 
 var isPrime = (num) => {

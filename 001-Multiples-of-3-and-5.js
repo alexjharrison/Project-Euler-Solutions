@@ -1,3 +1,5 @@
+//done
+
 var multiples = [];
 var result = 0;
 for (var i = 3; i < 1000; i++) {

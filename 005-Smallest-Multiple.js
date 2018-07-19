@@ -1,3 +1,5 @@
+//works for small numbers only
+
 var result = 0;
 var count = 2520;
 while (result === 0) {

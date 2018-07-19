@@ -1,3 +1,5 @@
+//done
+
 var biggest = 0;
 function checkForPal(input) {
     for (var i = 0; i < input.length / 2; i++) {
