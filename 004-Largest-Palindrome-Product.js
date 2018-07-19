@@ -1,4 +1,4 @@
-//works
+//done
 
 var biggest = 0;
 function checkForPal(input) {

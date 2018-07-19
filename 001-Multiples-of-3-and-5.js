@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //Works
+=======
+//done
+>>>>>>> 9ecb14f3c38661dc243160c76b12c24e4cb9330c
 
 var multiples = [];
 var result = 0;

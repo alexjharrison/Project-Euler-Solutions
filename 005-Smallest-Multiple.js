@@ -1,4 +1,4 @@
-//don't know if works, too slow
+//works for small numbers only
 
 var result = 0;
 var count = 2520;
