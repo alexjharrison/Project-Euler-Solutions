@@ -1,3 +1,5 @@
+//Works
+
 var sum = 0;
 currentNum = 1;
 nextNum = 1;
