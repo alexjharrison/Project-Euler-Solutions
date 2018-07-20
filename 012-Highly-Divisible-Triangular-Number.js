@@ -1,3 +1,5 @@
+//done
+
 var divisors = 0;
 var count = 1;
 var lastNum = 1;
